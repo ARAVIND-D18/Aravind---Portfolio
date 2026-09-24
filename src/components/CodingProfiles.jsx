@@ -16,7 +16,7 @@ const CodingProfiles = () => {
         </svg>
       ),
       description:
-        'Continuous problem solving focused on optimal Data Structures & Algorithms, including Trees, Dynamic Programming, Graphs, and Greedy approaches.',
+        'Continuous problem solving focused on optimal Data Structures & Algorithms, including Dynamic Programming and Greedy approaches.',
       highlights: ['450+ Algorithmic Challenges', 'Strong Focus on Time/Space Complexity', 'Java DSA Specialization'],
       url: 'https://leetcode.com/u/3C2gnCsSBo',
       badgeText: 'Top Problem Solver'
@@ -51,7 +51,7 @@ const CodingProfiles = () => {
         </svg>
       ),
       description:
-        'Source code for full-stack enterprise systems, AI / RAG implementations, Spring Boot microservices, and architectural showcases.',
+        'Source code for full-stack enterprise systems, AI / RAG implementations, Spring Boot, and architectural showcases.',
       highlights: ['DocMind AI & Fresh Basket Repos', 'Clean Commit Histories & Branches', 'Modular Java Architecture'],
       url: 'https://github.com/ARAVIND-D18',
       badgeText: 'Open Source'

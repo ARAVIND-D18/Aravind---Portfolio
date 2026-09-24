@@ -14,11 +14,11 @@ const Projects = () => {
         'An enterprise-grade Hybrid Retrieval-Augmented Generation system enabling page-cited document Q&A over complex multi-page PDFs.',
       description: [
         'Built a Hybrid RAG platform where users upload PDFs and receive page-cited answers, combining dense vector search with BM25 keyword search via Reciprocal Rank Fusion to handle semantic and exact-term queries.',
-        'Diagnosed a chunk-ID mismatch silently breaking hybrid retrieval, and integrated Google Gemini for answer synthesis with a Python embedding microservice, JWT authentication, and MySQL persistence.'
+        'Diagnosed a chunk-ID mismatch silently breaking hybrid retrieval, and integrated Google Gemini for answer synthesis with Python embedding, JWT authentication, and MySQL persistence.'
       ],
       highlights: [
         'Reciprocal Rank Fusion (RRF) merging dense semantic + sparse BM25 scores',
-        'Decoupled microservice architecture: Java Spring Boot core + Python Embedding worker',
+        'Decoupled architecture: Java Spring Boot core + Python Embedding worker',
         'Stateful session tracking with page-cited source verification',
         'Stateless JWT auth & relational metadata persistence in MySQL'
       ],
@@ -30,7 +30,6 @@ const Projects = () => {
         'Reciprocal Rank Fusion',
         'BM25 Search',
         'Vector Embeddings',
-        'Python Microservice',
         'JWT Auth',
         'MySQL'
       ],

@@ -27,7 +27,7 @@ const Education = () => {
 
   const certifications = [
     {
-      title: 'Full-Stack Java & Microservices',
+      title: 'Full-Stack Java',
       issuer: 'Technical Specialization',
       icon: '☕',
       topics: 'Spring Boot, Spring Security, REST APIs, Hibernate/JPA'
@@ -48,7 +48,7 @@ const Education = () => {
       title: 'Algorithmic Problem Solving (450+ LeetCode)',
       issuer: 'Competitive Programming',
       icon: '⚡',
-      topics: 'Dynamic Programming, Trees, Graphs, Complexity Optimization'
+      topics: 'Dynamic Programming, Complexity Optimization'
     }
   ];
 

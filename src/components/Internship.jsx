@@ -15,7 +15,7 @@ const Internship = () => {
         desc: 'Engineered Python scripts to parse, clean, and serialize real-time sensor streams into structured JSON payloads for downstream processing.'
       },
       {
-        title: 'REST API & Microservice Integration',
+        title: 'REST API Integration',
         desc: 'Constructed lightweight REST endpoints and client interfaces to transmit sensor data reliably across network layers with automated retry logic.'
       },
       {

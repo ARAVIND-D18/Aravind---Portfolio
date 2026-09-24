@@ -42,7 +42,7 @@ const About = () => {
             </p>
             <p className="about-subparagraph">
               I thrive at the intersection of enterprise Java architecture and modern AI capabilities.
-              Whether implementing Reciprocal Rank Fusion for semantic search, diagnosing deep microservice
+              Whether implementing Reciprocal Rank Fusion for semantic search, diagnosing deep
               data flow issues, or fine-tuning database schemas for e-commerce, I write clean,
               maintainable, and production-ready code.
             </p>
