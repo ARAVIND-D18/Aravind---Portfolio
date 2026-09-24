@@ -6,7 +6,7 @@ const Education = () => {
     {
       degree: 'Bachelor of Engineering (B.E.) in Computer Science & Engineering',
       institution: 'Chennai, Tamil Nadu, India',
-      duration: 'Graduation Year: 2026',
+      duration: 'Graduation Year: 2027',
       grade: 'CGPA: 8.0 / 10.0',
       badge: 'Undergraduate Degree',
       highlights: [
